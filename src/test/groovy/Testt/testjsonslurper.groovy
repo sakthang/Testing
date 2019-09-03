@@ -1,8 +1,8 @@
-//package Testt
+package Testt
 import com.github.tomakehurst.wiremock.WireMockServer
 import groovy.json.JsonSlurper
 import org.apache.http.impl.client.CloseableHttpClient
-/*class testjsonslurper {
+class testjsonslurper {
     static String json1 = '''
 {
   "name": "John",  
@@ -18,7 +18,7 @@ println(value)
 //        println(value)
     }
 
-}*/
+}
 /*
 class testjsonslurper
 {
