@@ -12,6 +12,7 @@ import wslite.http.HTTPRequest
 
 @RunWith(SpringifiedConcordionRunner)
 @ContextConfiguration(classes = GroovyClassLoader)
+//sample test case
 //@Grab('com.github.groovy-wslite:groovy-wslite:1.1.2')
 class Test1  {
     def greetingFor(String firstname) {
