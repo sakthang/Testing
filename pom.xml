@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <groovy.version>2.4.12</groovy.version>
+        <groovy.version>2.4.21</groovy.version>
         <concordion.version>2.2.0</concordion.version>
         <concordion-logging-tooltip-extension.version>1.1.2</concordion-logging-tooltip-extension.version>
         <concordion-embed-extension.version>1.2.0</concordion-embed-extension.version>
